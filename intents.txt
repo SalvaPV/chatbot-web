@@ -1,0 +1,234 @@
+saludo: hola
+saludo: buenos dias
+saludo: buenas tardes
+saludo: buenas noches
+saludo: que tal
+saludo: como estas
+saludo: hola que tal
+saludo: saludo
+saludo: hey
+saludo: que onda
+saludo: como te va
+saludo: mucho gusto
+saludo: que hay de nuevo
+saludo: un saludo
+saludo: que cuentas
+saludo: tanto tiempo
+saludo: que gusto verte
+saludo: hola amigo
+saludo: hola como estas
+saludo: hola bienvenido
+saludo: bien y tu
+saludo: todo bien
+saludo: bien gracias
+saludo: aqui andamos
+saludo: como estas tu
+saludo: hey como va
+saludo: que paso
+saludo: hablamos
+saludo: todo tranquilo
+saludo: que hay
+saludo: como vamos
+saludo: que me cuentas
+saludo: que mas
+saludo: como andas
+saludo: que tal todo
+saludo: como te ha ido
+saludo: que paso amigo
+
+compra: quiero comprar
+compra: necesito un producto
+compra: quiero adquirir algo
+compra: busco un articulo
+compra: quiero hacer una compra
+compra: tienen productos disponibles
+compra: deseo comprar algo
+compra: quiero ver productos
+compra: me interesa comprar
+compra: que venden
+compra: me gustaria comprar
+compra: estoy buscando algo
+compra: necesito adquirir
+compra: tienen en stock
+compra: me urge comprar algo
+compra: necesito un articulo nuevo
+compra: estoy interesado en comprar
+compra: quiero adquirir un producto
+compra: quiero comprar algo
+compra: ando buscando algo
+compra: que tiene a la venta
+compra: productos en oferta
+compra: que puedo comprar
+compra: catalogo de productos
+compra: opciones de compra
+
+soporte: tengo un problema
+soporte: necesito ayuda
+soporte: no funciona
+soporte: tengo un error
+soporte: falla el sistema
+soporte: necesito soporte
+soporte: tengo una duda
+soporte: algo anda mal
+soporte: no puedo usarlo
+soporte: ayuda por favor
+soporte: no me deja entrar
+soporte: se bloqueo la pantalla
+soporte: marca error
+soporte: no carga la pagina
+soporte: necesito que me ayudes
+soporte: la aplicacion falla
+soporte: tengo un fallo tecnico
+soporte: el sistema presenta errores
+soporte: la pagina no responde
+soporte: necesito asistencia
+soporte: me pueden ayudar
+soporte: tengo un inconveniente
+soporte: se trabo la pagina
+soporte: problemas con el sistema
+soporte: algo no funciona bien
+soporte: necesito solucionar un problema
+
+precio: dame precios
+precio: cuanto cuesta
+precio: dame precio de los productos
+precio: que precio tiene
+precio: precio por favor
+precio: necesito saber precios
+precio: cuanto vale
+precio: cual es el precio
+precio: me interesa el precio
+precio: precios de productos
+precio: lista de precios
+precio: informacion de precios
+precio: quiero saber cuanto cuesta
+precio: cuales son los precios
+precio: precios disponibles
+precio: consultar precio
+precio: ver precios
+precio: dame informacion de precios
+precio: costo de productos
+precio: precios actuales
+precio: saber precio
+precio: me urge el precio
+precio: paseme los precios
+precio: necesito los costos
+
+gracias: gracias
+gracias: muchas gracias
+gracias: te agradezco
+gracias: muy amable
+gracias: gracias por tu ayuda
+gracias: gracias por todo
+gracias: de verdad gracias
+gracias: thank you
+gracias: gracias amigo
+gracias: se agradece
+gracias: gracias por la informacion
+gracias: muy agradecido
+gracias: gracias por atenderme
+gracias: que amable gracias
+gracias: gracias bro
+
+horario: horario
+horario: que horario tienen
+horario: a que hora abren
+horario: a que hora cierran
+horario: horario de atencion
+horario: en que horario trabajan
+horario: dias de atencion
+horario: horario laboral
+horario: cuando abren
+horario: cuando cierran
+horario: horario de servicio
+horario: atienden los fines de semana
+horario: horario sabado
+horario: horario entre semana
+horario: hasta que hora atienden
+horario: a que hora abren hoy
+
+contacto: contacto
+contacto: numero de telefono
+contacto: correo electronico
+contacto: como contacto
+contacto: datos de contacto
+contacto: informacion de contacto
+contacto: telefono de atencion
+contacto: correo de soporte
+contacto: quiero contactarlos
+contacto: como me comunico
+contacto: medio de contacto
+contacto: redes sociales
+contacto: numero de contacto
+contacto: email de contacto
+contacto: whatsapp
+
+ubicacion: ubicacion
+ubicacion: donde estan ubicados
+ubicacion: direccion
+ubicacion: en que direccion estan
+ubicacion: como llegar
+ubicacion: donde quedan
+ubicacion: punto de venta
+ubicacion: tienda fisica
+ubicacion: sucursales
+ubicacion: estan cerca de
+ubicacion: mapa
+ubicacion: direccion de la tienda
+ubicacion: en que calle estan
+ubicacion: colonia
+ubicacion: referencia de ubicacion
+ubicacion: donde se ubican
+ubicacion: en donde estan
+ubicacion: cual es la direccion
+ubicacion: como llego
+ubicacion: donde los encuentro
+ubicacion: en que lugar estan
+ubicacion: como llegar a su tienda
+ubicacion: indicaciones para llegar
+ubicacion: como llegar a sus instalaciones
+
+devolucion: devolucion
+devolucion: quiero devolver un producto
+devolucion: como devolver
+devolucion: politica de devolucion
+devolucion: puedo devolverlo
+devolucion: cambio de producto
+devolucion: hacer una devolucion
+devolucion: derecho a devolucion
+devolucion: plazo de devolucion
+devolucion: condiciones de devolucion
+devolucion: devolver articulo
+devolucion: quiero hacer un cambio
+devolucion: me urge devolver
+devolucion: proceso de devolucion
+devolucion: requisitos para devolver
+
+despedida: adios
+despedida: hasta luego
+despedida: nos vemos
+despedida: hasta pronto
+despedida: chau
+despedida: me voy
+despedida: hasta la proxima
+despedida: bye
+despedida: hablamos luego
+despedida: cuidate
+despedida: que tengas buen dia
+despedida: fue un gusto
+despedida: nos vemos despues
+despedida: ahi nos vemos
+despedida: hasta otra ocasion
+despedida: me retiro
+despedida: ya me voy
+despedida: fue un placer
+despedida: hasta la vista
+despedida: adios amigo
+despedida: me despido
+despedida: tengo que irme
+despedida: buen dia
+despedida: que te vaya bien
+despedida: hasta luego amigo
+despedida: nos vemos luego
+despedida: gracias y adios
+despedida: adios que estes bien
